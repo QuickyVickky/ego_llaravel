@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" width="60" height="60">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-604 -320L1316 -320L1316 760L-604 760Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #f2f5f7 } 
+		.shp1 { fill: #255f99 } 
+		.shp2 { fill: #ffffff } 
+	</style>
+	<g id="My activity – 2" clip-path="url(#cp1)">
+		<g id="Group 16598">
+			<g id="Group 16583">
+				<path id="Ellipse 122" class="shp0" d="M30 60C13.41 60 0 46.59 0 30C0 13.41 13.41 0 30 0C46.59 0 60 13.41 60 30C60 46.59 46.59 60 30 60Z" />
+				<g id="Iconly/Bulk/Tick Square">
+					<g id="Tick Square">
+						<path id="Fill 1" class="shp1" d="M35.92 18L25.09 18C20.85 18 18 20.97 18 25.4L18 35.61C18 40.02 20.85 43 25.09 43L35.92 43C40.16 43 43 40.02 43 35.61L43 25.4C43 20.97 40.16 18 35.92 18Z" />
+						<path id="Fill 4" class="shp2" d="M29.02 34.56C28.74 34.56 28.46 34.45 28.24 34.24L25.28 31.27C24.85 30.85 24.85 30.15 25.28 29.73C25.7 29.3 26.39 29.3 26.82 29.73L29.02 31.92L34.18 26.76C34.6 26.33 35.29 26.33 35.72 26.76C36.15 27.19 36.15 27.88 35.72 28.31L29.79 34.24C29.58 34.45 29.3 34.56 29.02 34.56Z" />
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

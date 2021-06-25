@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Disc / flag-bg</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="16" cy="16" r="16"></circle>
+        <filter x="-4.7%" y="-4.7%" width="109.4%" height="109.4%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feGaussianBlur stdDeviation="1" in="shadowSpreadInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <circle id="path-4" cx="16" cy="16" r="16"></circle>
+    </defs>
+    <g id="Disc-/-flag-bg" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g id="Oval">
+            <use fill="#12234D" fill-rule="evenodd" xlink:href="#path-1"></use>
+            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+        </g>
+        <mask id="mask-5" fill="white">
+            <use xlink:href="#path-4"></use>
+        </mask>
+        <use id="Oval" fill="#FFFFFF" xlink:href="#path-4"></use>
+        <g id="flag-bg" mask="url(#mask-5)">
+            <g transform="translate(-8.000000, 0.000000)">
+                <g id="Group">
+                    <polygon id="Shape" fill="#FF2353" points="0 21.3331333 48 21.3331333 48 32 0 32"></polygon>
+                    <polygon id="Shape" fill="#FFFFFF" points="0 0 48 0 48 10.6668667 0 10.6668667"></polygon>
+                    <polygon id="Shape" fill="#06807B" points="0 10.6668667 48 10.6668667 48 21.3337333 0 21.3337333"></polygon>
+                </g>
+                <g id="flag-border"></g>
+            </g>
+        </g>
+    </g>
+</svg>

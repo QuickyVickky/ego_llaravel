@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 41" width="40" height="41">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-1716 -460L204 -460L204 620L-1716 620Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #f2f5f7 } 
+		.shp1 { fill: none } 
+		.shp2 { fill: #255f99 } 
+	</style>
+	<g id="Amount – 3" clip-path="url(#cp1)">
+		<g id="Scroll Group 1">
+			<g id="Group 16563">
+				<g id="Group 16549">
+					<path id="Ellipse 118" class="shp0" d="M0 21C0 9.94 8.94 1 20 1C31.06 1 40 9.94 40 21C40 32.06 31.06 41 20 41C8.94 41 0 32.06 0 21Z" />
+					<g id="Group 16548">
+						<path id="Path 10704" class="shp1" d="M8.06 9L8.06 33L32.06 33L32.06 9L8.06 9Z" />
+						<path id="Path 10705" class="shp2" d="M21.23 21L16.28 25.95L17.7 27.36L24.06 21L17.7 14.64L16.28 16.05L21.23 21Z" />
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

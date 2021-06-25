@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="Group_16584" data-name="Group 16584" transform="translate(-612 -434)">
+    <circle id="Ellipse_122" data-name="Ellipse 122" cx="30" cy="30" r="30" transform="translate(612 434)" fill="#f2f5f7"/>
+    <g id="Iconly_Bulk_Close_Square" data-name="Iconly/Bulk/Close Square" transform="translate(630 452)">
+      <path id="Fill_1" data-name="Fill 1" d="M17.925,0H7.088C2.85,0,0,2.975,0,7.4V17.612C0,22.025,2.85,25,7.088,25H17.925C22.162,25,25,22.025,25,17.612V7.4C25,2.975,22.162,0,17.925,0" fill="#255f99"/>
+      <path id="Fill_4" data-name="Fill 4" d="M7.862,6.315,5.638,4.092,7.861,1.87A1.094,1.094,0,0,0,6.315.322L4.091,2.545,1.867.32A1.094,1.094,0,0,0,.32,1.867L2.545,4.092.325,6.311A1.094,1.094,0,0,0,1.871,7.858l2.22-2.22L6.316,7.862A1.094,1.094,0,0,0,7.862,6.315" transform="translate(8.407 8.398)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

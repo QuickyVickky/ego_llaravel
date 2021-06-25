@@ -1,0 +1,83 @@
+pusher.com
+
+seciy55840@geekale.com
+123456
+
+PUSHER_APP_ID=1211541
+PUSHER_APP_KEY=53e1207811de5e876d5f
+PUSHER_APP_SECRET=a18135675ebc7c2ba956
+PUSHER_APP_CLUSTER=ap2
+----------------------------------
+
+
+
+FTP:-
+------
+host     : egogram.hostappshere.co.in
+username : egogram_technomads
+password : egogram@123
+
+
+
+
+
+
+Egogram (Pending task):-
+- SMTP details
+- Web & app push notification
+- Real time currency conversion not working (Due library goes paid) [Don't do it now, I will let you know what to do on this]
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+vaviji5115@edmondpt.com
+user020620211051
+7u8@fgRe434
+
+
+gautam.technomads@gmail.com
+
+
+
+
+bFbcOf&jgC)Vq5iEr5
+
+
